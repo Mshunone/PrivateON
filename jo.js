@@ -3119,7 +3119,7 @@ sections: [{
 "rows": [
 {
 "title": "GRUP MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}grupmenu`
 }
 ]
@@ -3129,7 +3129,7 @@ sections: [{
 "rows": [
 {
 "title": "WEBZONE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}webzonemenu`
 }
 ]
@@ -3139,7 +3139,7 @@ sections: [{
 "rows": [
 {
 "title": "DOWNLOAD MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}downloadmenu`
 }
 ]
@@ -3149,7 +3149,7 @@ sections: [{
 "rows": [
 {
 "title": "SEARCH MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}searchmenu`
 }
 ]
@@ -3159,7 +3159,7 @@ sections: [{
 "rows": [
 {
 "title": "RANDOM MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}randommenu`
 }
 ]
@@ -3169,7 +3169,7 @@ sections: [{
 "rows": [
 {
 "title": "TEKSPRO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}tekspromenu`
 }
 ]
@@ -3179,7 +3179,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}photomenu`
 }
 ]
@@ -3189,7 +3189,7 @@ sections: [{
 "rows": [
 {
 "title": "EPHOTO MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}ephotomenu`
 }
 ]
@@ -3199,7 +3199,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTOOXY MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}photooxymenu`
 }
 ]
@@ -3209,7 +3209,7 @@ sections: [{
 "rows": [
 {
 "title": "FUN MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}funmenu`
 }
 ]
@@ -3219,7 +3219,7 @@ sections: [{
 "rows": [
 {
 "title": "PRIMBON MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}primbonmenu`
 }
 ]
@@ -3229,7 +3229,7 @@ sections: [{
 "rows": [
 {
 "title": "CONVERT MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}convertmenu`
 }
 ]
@@ -3239,7 +3239,7 @@ sections: [{
 "rows": [
 {
 "title": "MAIN MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}mainmenu`
 }
 ]
@@ -3249,7 +3249,7 @@ sections: [{
 "rows": [
 {
 "title": "DATABASE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}databasemenu`
 }
 ]
@@ -3259,7 +3259,7 @@ sections: [{
 "rows": [
 {
 "title": "ANONYMOUS MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}anonymousmenu`
 }
 ]
@@ -3269,7 +3269,7 @@ sections: [{
 "rows": [
 {
 "title": "ISLAMIC MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}islamicmenu`
 }
 ]
@@ -3279,7 +3279,7 @@ sections: [{
 "rows": [
 {
 "title": "VOICE MENU",
-"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"description": "©SaxiaBotz",
 "rowId": `${prefix}voicemenu`
 }
 ]
@@ -3328,7 +3328,7 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+©SaxiaBotz
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
